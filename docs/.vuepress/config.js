@@ -111,7 +111,8 @@ module.exports = {
         children: [
           '/html/biaoqian.md',
           '/html/biaoqianhtml5.md',
-          '/html/html简介.md'
+          '/html/html简介.md',
+          '/html/html知识点.md'
         ]
       },
       {
