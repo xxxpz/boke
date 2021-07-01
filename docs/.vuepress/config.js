@@ -36,18 +36,6 @@ module.exports = {
             link: '/javascript/js1.md'
           },
           {
-            text: 'JavaScript',
-            link: '/javascript/如何实现一个new.md'
-          },
-          {
-            text: 'JavaScript',
-            link: '/javascript/深度遍历和广度遍历.md'
-          },
-          {
-            text: 'JavaScript',
-            link: '/javascript/实现一个Array.flat.md'
-          },
-          {
             text: 'React',
             link: '/react/react1.md'
           },
@@ -139,6 +127,9 @@ module.exports = {
         collapsable: true,
         children: [
           '/javascript/js1.md',
+          '/javascript/如何实现一个new.md',
+          '/javascript/深度遍历和广度遍历.md',
+          '/javascript/实现一个Array.flat.md'
         ]
       },
       {
